@@ -1,0 +1,31 @@
+ul{
+    margin-top: 0px;
+    padding: 0;
+    list-style: none;
+    height: 35px; 
+    line-height: 35px; 
+    background-color: black;
+    font-family: bremen bd bt;
+    font-size: 13px; 
+}
+
+li{
+  float: left;
+  
+}
+
+a{
+  display: block; 
+  padding: 0 28px; 
+  color: white;
+  text-decoration: none;
+}
+
+a:hover{
+    background-color: #E57993;
+}
+
+
+.active a{
+    background-color: #E57993;
+}
